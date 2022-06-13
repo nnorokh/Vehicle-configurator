@@ -1,0 +1,14 @@
+.configurator{
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+.priceTitle{
+    font-size: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+    padding: 5px;
+    position: sticky;
+
+    margin: 0 5% 8% 5%;
+}

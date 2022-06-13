@@ -1,0 +1,38 @@
+.item{
+    border: black 1px solid;
+    border-radius: 10%;
+
+    width: 8%;
+    height: 100px;
+    
+    transition: all 1s ease;
+
+    display: inline-block;
+
+}
+.choosen{
+    border: #E0E0E0 1px solid;
+    transition: all 1s ease;
+
+    transform: scale(110%);
+}
+.item img{
+  display: block;
+  margin: 10px auto 0 auto;
+  width: 30%;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: #f55a42;
+}
+.green{
+    background-color: #42f598;
+}
+.purple{
+    background-color: #bf42f5;
+}
+.blue{
+    background-color: #42a7f5;
+}

@@ -1,0 +1,23 @@
+.item{
+    border: black 1px solid;
+    border-radius: 10%;
+
+    width: 8%;
+    height: 3%;
+    
+    transition: all 1s ease;
+
+    display: inline-block;
+
+}
+.choosen{
+    background-color: #E0E0E0;
+    transition: all 1s ease;
+
+    transform: scale(105%);
+}
+.item img{
+  display: block;
+  margin: 10px auto 0 auto;
+  width: 30%;
+}

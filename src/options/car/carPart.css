@@ -1,0 +1,23 @@
+.wrapper{
+    width: 100%;
+
+    border-right: solid black 1px;
+    transition: all 1s ease;
+
+    margin-top: 8%;
+}
+.wrapper{
+    margin: 0 auto 0 auto;
+}
+.wrapper div{
+    width: 15%;
+    margin: 0 1.5% 0 1.5%;
+}
+.active{
+    border-right: solid #E0E0E0 1.5px;
+    transition: all 1s ease;
+
+}
+.title{
+    margin-bottom: 1.5%;
+}
